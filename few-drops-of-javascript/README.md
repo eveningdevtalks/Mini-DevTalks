@@ -2,6 +2,8 @@
 
 ## var vs let vs const
 
+### var
+
 ```js
 function hello_var() {
   for (var i = 0; i < 5; i++) {
@@ -22,6 +24,8 @@ function hello_var() {
 4
 value of i = 5
 ```
+
+### let
 
 ```js
 function hello_let() {
