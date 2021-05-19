@@ -119,7 +119,7 @@ const newLotr = [...LOTR, "Sauron", "Merry", "Pippin"];
 // ]
 ```
 
-### Rest operator - object
+### Spread operator - object
 
 
 ```js
